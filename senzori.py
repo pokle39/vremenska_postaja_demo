@@ -1,5 +1,5 @@
 ### ova .py skripta sadrzi klase za senzore i aktuatore
- 
+ ### ovov je za test
 import random
 
 from gpiozero import Device, LED
